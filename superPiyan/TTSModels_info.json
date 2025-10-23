@@ -1,0 +1,779 @@
+[
+    {
+        "title": "nineninesix/kani-tts-370m",
+        "url": "https://huggingface.co/nineninesix/kani-tts-370m",
+        "image": "nineninesixkani-tts-370m",
+        "parameters": "0.4B params",
+        "download_last_month": "7,473",
+        "model_tree": []
+    },
+    {
+        "title": "Marvis-AI/marvis-tts-250m-v0.1",
+        "url": "https://huggingface.co/Marvis-AI/marvis-tts-250m-v0.1",
+        "image": "Marvis-AImarvis-tts-250m-v0.1",
+        "parameters": null,
+        "download_last_month": "1,236",
+        "model_tree": []
+    },
+    {
+        "title": "RICHARD12369/DiaMoE_TTS",
+        "url": "https://huggingface.co/RICHARD12369/DiaMoE_TTS",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "SWivid/F5-TTS",
+        "url": "https://huggingface.co/SWivid/F5-TTS",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "599,369",
+        "model_tree": []
+    },
+    {
+        "title": "Misha24-10/F5-TTS_RUSSIAN",
+        "url": "https://huggingface.co/Misha24-10/F5-TTS_RUSSIAN",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "21,002",
+        "model_tree": []
+    },
+    {
+        "title": "KittenML/kitten-tts-nano-0.1",
+        "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.1",
+        "image": "KittenMLkitten-tts-nano-0.1",
+        "parameters": null,
+        "download_last_month": "45,110",
+        "model_tree": []
+    },
+    {
+        "title": "Eempostor/F5-TTS-INDO-FINETUNE-V2",
+        "url": "https://huggingface.co/Eempostor/F5-TTS-INDO-FINETUNE-V2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "nineninesix/kani-tts-370m-expo2025-osaka-ja",
+        "url": "https://huggingface.co/nineninesix/kani-tts-370m-expo2025-osaka-ja",
+        "image": "nineninesixkani-tts-370m-expo2025-osaka-ja",
+        "parameters": "0.4B params",
+        "download_last_month": "50",
+        "model_tree": []
+    },
+    {
+        "title": "huawei-noah/Grad-TTS",
+        "url": "https://huggingface.co/huawei-noah/Grad-TTS",
+        "image": "huawei-noahGrad-TTS",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "microsoft/speecht5_tts",
+        "url": "https://huggingface.co/microsoft/speecht5_tts",
+        "image": "microsoftspeecht5_tts",
+        "parameters": null,
+        "download_last_month": "69,140",
+        "model_tree": []
+    },
+    {
+        "title": "voidful/mhubert-unit-tts",
+        "url": "https://huggingface.co/voidful/mhubert-unit-tts",
+        "image": "hugging_face_logo",
+        "parameters": "0.2B params",
+        "download_last_month": "6",
+        "model_tree": []
+    },
+    {
+        "title": "facebook/mms-tts-eng",
+        "url": "https://huggingface.co/facebook/mms-tts-eng",
+        "image": "facebookmms-tts-eng",
+        "parameters": "36.3M params",
+        "download_last_month": "34,145",
+        "model_tree": [
+            "Finetunes1 model",
+            "Quantizations1 model"
+        ]
+    },
+    {
+        "title": "facebook/mms-tts-hun",
+        "url": "https://huggingface.co/facebook/mms-tts-hun",
+        "image": "facebookmms-tts-hun",
+        "parameters": "36.3M params",
+        "download_last_month": "419",
+        "model_tree": []
+    },
+    {
+        "title": "facebook/mms-tts-aka",
+        "url": "https://huggingface.co/facebook/mms-tts-aka",
+        "image": "facebookmms-tts-aka",
+        "parameters": "36.3M params",
+        "download_last_month": "144",
+        "model_tree": []
+    },
+    {
+        "title": "facebook/mms-tts-quz",
+        "url": "https://huggingface.co/facebook/mms-tts-quz",
+        "image": "facebookmms-tts-quz",
+        "parameters": "36.3M params",
+        "download_last_month": "285",
+        "model_tree": []
+    },
+    {
+        "title": "facebook/mms-tts-tgl",
+        "url": "https://huggingface.co/facebook/mms-tts-tgl",
+        "image": "facebookmms-tts-tgl",
+        "parameters": "36.3M params",
+        "download_last_month": "1,141",
+        "model_tree": []
+    },
+    {
+        "title": "facebook/mms-tts-nya",
+        "url": "https://huggingface.co/facebook/mms-tts-nya",
+        "image": "facebookmms-tts-nya",
+        "parameters": "36.3M params",
+        "download_last_month": "19",
+        "model_tree": []
+    },
+    {
+        "title": "facebook/mms-tts-guj",
+        "url": "https://huggingface.co/facebook/mms-tts-guj",
+        "image": "facebookmms-tts-guj",
+        "parameters": "36.3M params",
+        "download_last_month": "384",
+        "model_tree": []
+    },
+    {
+        "title": "ylacombe/mms-tts-guj-train",
+        "url": "https://huggingface.co/ylacombe/mms-tts-guj-train",
+        "image": "hugging_face_logo",
+        "parameters": "83M params",
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "utrobinmv/tts_ru_free_hf_vits_low_multispeaker",
+        "url": "https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_low_multispeaker",
+        "image": "utrobinmvtts_ru_free_hf_vits_low_multispeaker",
+        "parameters": "15.1M params",
+        "download_last_month": "383",
+        "model_tree": []
+    },
+    {
+        "title": "SWivid/E2-TTS",
+        "url": "https://huggingface.co/SWivid/E2-TTS",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "13,489",
+        "model_tree": []
+    },
+    {
+        "title": "parler-tts/parler-tts-mini-v1.1",
+        "url": "https://huggingface.co/parler-tts/parler-tts-mini-v1.1",
+        "image": "parler-ttsparler-tts-mini-v1.1",
+        "parameters": "0.9B params",
+        "download_last_month": "1,169",
+        "model_tree": [
+            "Finetunes2 models"
+        ]
+    },
+    {
+        "title": "dangvansam/viet-tts",
+        "url": "https://huggingface.co/dangvansam/viet-tts",
+        "image": "dangvansamviet-tts",
+        "parameters": null,
+        "download_last_month": "113",
+        "model_tree": []
+    },
+    {
+        "title": "ai4bharat/indic-parler-tts",
+        "url": "https://huggingface.co/ai4bharat/indic-parler-tts",
+        "image": "ai4bharatindic-parler-tts",
+        "parameters": "0.9B params",
+        "download_last_month": "20,179",
+        "model_tree": [
+            "Finetunes1 model"
+        ]
+    },
+    {
+        "title": "stepfun-ai/Step-Audio-TTS-3B",
+        "url": "https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B",
+        "image": "stepfun-aiStep-Audio-TTS-3B",
+        "parameters": "4B params",
+        "download_last_month": "99",
+        "model_tree": []
+    },
+    {
+        "title": "SparkAudio/Spark-TTS-0.5B",
+        "url": "https://huggingface.co/SparkAudio/Spark-TTS-0.5B",
+        "image": "SparkAudioSpark-TTS-0.5B",
+        "parameters": null,
+        "download_last_month": "1,159",
+        "model_tree": []
+    },
+    {
+        "title": "Ngadou/nigerian_accent_tts_en",
+        "url": "https://huggingface.co/Ngadou/nigerian_accent_tts_en",
+        "image": "hugging_face_logo",
+        "parameters": "0.1B params",
+        "download_last_month": "8",
+        "model_tree": []
+    },
+    {
+        "title": "sarpba/F5-TTS_V1_hun",
+        "url": "https://huggingface.co/sarpba/F5-TTS_V1_hun",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "IndexTeam/Index-TTS",
+        "url": "https://huggingface.co/IndexTeam/Index-TTS",
+        "image": "IndexTeamIndex-TTS",
+        "parameters": null,
+        "download_last_month": "196",
+        "model_tree": []
+    },
+    {
+        "title": "MYZY-AI/Muyan-TTS",
+        "url": "https://huggingface.co/MYZY-AI/Muyan-TTS",
+        "image": "MYZY-AIMuyan-TTS",
+        "parameters": "4B params",
+        "download_last_month": "36",
+        "model_tree": [
+            "Quantizations3 models"
+        ]
+    },
+    {
+        "title": "prashantarya/orpheus-tts-model-shaurya-4bit",
+        "url": "https://huggingface.co/prashantarya/orpheus-tts-model-shaurya-4bit",
+        "image": "prashantaryaorpheus-tts-model-shaurya-4bit",
+        "parameters": "2B params",
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "danhtran2mind/Viet-SpeechT5-TTS-finetuning",
+        "url": "https://huggingface.co/danhtran2mind/Viet-SpeechT5-TTS-finetuning",
+        "image": "danhtran2mindViet-SpeechT5-TTS-finetuning",
+        "parameters": "0.1B params",
+        "download_last_month": "160",
+        "model_tree": []
+    },
+    {
+        "title": "Cosmobillian/orpheust-tts-base-fine-tune",
+        "url": "https://huggingface.co/Cosmobillian/orpheust-tts-base-fine-tune",
+        "image": "Cosmobillianorpheust-tts-base-fine-tune",
+        "parameters": "3B params",
+        "download_last_month": "26",
+        "model_tree": []
+    },
+    {
+        "title": "Cosmobillian/turkish_orpheus_tts",
+        "url": "https://huggingface.co/Cosmobillian/turkish_orpheus_tts",
+        "image": "hugging_face_logo",
+        "parameters": "3B params",
+        "download_last_month": "41",
+        "model_tree": []
+    },
+    {
+        "title": "sarpba/F5-TTS_V1_hun_v2",
+        "url": "https://huggingface.co/sarpba/F5-TTS_V1_hun_v2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "kyutai/tts-1.6b-en_fr",
+        "url": "https://huggingface.co/kyutai/tts-1.6b-en_fr",
+        "image": "kyutaitts-1.6b-en_fr",
+        "parameters": null,
+        "download_last_month": "88,073",
+        "model_tree": []
+    },
+    {
+        "title": "fnlp/MOSS-TTSD-v0.5",
+        "url": "https://huggingface.co/fnlp/MOSS-TTSD-v0.5",
+        "image": "fnlpMOSS-TTSD-v0.5",
+        "parameters": "2B params",
+        "download_last_month": "13,397",
+        "model_tree": []
+    },
+    {
+        "title": "ESpeech/ESpeech-TTS-1_podcaster",
+        "url": "https://huggingface.co/ESpeech/ESpeech-TTS-1_podcaster",
+        "image": "ESpeechESpeech-TTS-1_podcaster",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "ESpeech/ESpeech-TTS-1_RL-V2",
+        "url": "https://huggingface.co/ESpeech/ESpeech-TTS-1_RL-V2",
+        "image": "ESpeechESpeech-TTS-1_RL-V2",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Datasmartly/tts_tamazight_multispeakers",
+        "url": "https://huggingface.co/Datasmartly/tts_tamazight_multispeakers",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "MrEzzat/Spark_TTS_Arabic",
+        "url": "https://huggingface.co/MrEzzat/Spark_TTS_Arabic",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "67",
+        "model_tree": []
+    },
+    {
+        "title": "Mungert/kani-tts-450m-0.1-pt-GGUF",
+        "url": "https://huggingface.co/Mungert/kani-tts-450m-0.1-pt-GGUF",
+        "image": "Mungertkani-tts-450m-0.1-pt-GGUF",
+        "parameters": null,
+        "download_last_month": "346",
+        "model_tree": []
+    },
+    {
+        "title": "Remostart/igbo-tts",
+        "url": "https://huggingface.co/Remostart/igbo-tts",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "24",
+        "model_tree": []
+    },
+    {
+        "title": "Araby/Arabic-TTS",
+        "url": "https://huggingface.co/Araby/Arabic-TTS",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Edresson/wav2vec2-large-100k-voxpopuli-ft-Common-Voice_plus_TTS-Dataset-portuguese",
+        "url": "https://huggingface.co/Edresson/wav2vec2-large-100k-voxpopuli-ft-Common-Voice_plus_TTS-Dataset-portuguese",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "15",
+        "model_tree": []
+    },
+    {
+        "title": "Edresson/wav2vec2-large-100k-voxpopuli-ft-Common-Voice_plus_TTS-Dataset-russian",
+        "url": "https://huggingface.co/Edresson/wav2vec2-large-100k-voxpopuli-ft-Common-Voice_plus_TTS-Dataset-russian",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "14",
+        "model_tree": []
+    },
+    {
+        "title": "Edresson/wav2vec2-large-100k-voxpopuli-ft-Common_Voice_plus_TTS-Dataset_plus_Data_Augmentation-portuguese",
+        "url": "https://huggingface.co/Edresson/wav2vec2-large-100k-voxpopuli-ft-Common_Voice_plus_TTS-Dataset_plus_Data_Augmentation-portuguese",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "13",
+        "model_tree": []
+    },
+    {
+        "title": "Edresson/wav2vec2-large-100k-voxpopuli-ft-Common_Voice_plus_TTS-Dataset_plus_Data_Augmentation-russian",
+        "url": "https://huggingface.co/Edresson/wav2vec2-large-100k-voxpopuli-ft-Common_Voice_plus_TTS-Dataset_plus_Data_Augmentation-russian",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "8",
+        "model_tree": []
+    },
+    {
+        "title": "Edresson/wav2vec2-large-100k-voxpopuli-ft-TTS-Dataset-plus-data-augmentation-portuguese",
+        "url": "https://huggingface.co/Edresson/wav2vec2-large-100k-voxpopuli-ft-TTS-Dataset-plus-data-augmentation-portuguese",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "Edresson/wav2vec2-large-100k-voxpopuli-ft-TTS-Dataset-plus-data-augmentation-russian",
+        "url": "https://huggingface.co/Edresson/wav2vec2-large-100k-voxpopuli-ft-TTS-Dataset-plus-data-augmentation-russian",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "7",
+        "model_tree": []
+    },
+    {
+        "title": "NeonBohdan/tts-tacotron2-ljspeech-pl",
+        "url": "https://huggingface.co/NeonBohdan/tts-tacotron2-ljspeech-pl",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "bayartsogt/tts_transformer-mn-mbspeech",
+        "url": "https://huggingface.co/bayartsogt/tts_transformer-mn-mbspeech",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "dathudeptrai/tts-tacotron2-synpaflex-fr",
+        "url": "https://huggingface.co/dathudeptrai/tts-tacotron2-synpaflex-fr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_csmsc_tts_train_conformer_fastspeech2_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_csmsc_tts_train_conformer_fastspeech2_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "image": "espnetkan-bayashi_csmsc_tts_train_conformer_fastspeech2_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_csmsc_tts_train_fastspeech2_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_csmsc_tts_train_fastspeech2_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "image": "espnetkan-bayashi_csmsc_tts_train_fastspeech2_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_csmsc_tts_train_fastspeech_raw_phn_pypinyin_g2p_phone_train.loss.best",
+        "url": "https://huggingface.co/espnet/kan-bayashi_csmsc_tts_train_fastspeech_raw_phn_pypinyin_g2p_phone_train.loss.best",
+        "image": "espnetkan-bayashi_csmsc_tts_train_fastspeech_raw_phn_pypinyin_g2p_phone_train.loss.best",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_csmsc_tts_train_full_band_vits_raw_phn_pypinyin_g2p_phone_train.total_count.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_csmsc_tts_train_full_band_vits_raw_phn_pypinyin_g2p_phone_train.total_count.ave",
+        "image": "espnetkan-bayashi_csmsc_tts_train_full_band_vits_raw_phn_pypinyin_g2p_phone_train.total_count.ave",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_csmsc_tts_train_tacotron2_raw_phn_pypinyin_g2p_phone_train.loss.best",
+        "url": "https://huggingface.co/espnet/kan-bayashi_csmsc_tts_train_tacotron2_raw_phn_pypinyin_g2p_phone_train.loss.best",
+        "image": "espnetkan-bayashi_csmsc_tts_train_tacotron2_raw_phn_pypinyin_g2p_phone_train.loss.best",
+        "parameters": null,
+        "download_last_month": "8",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_csmsc_tts_train_transformer_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_csmsc_tts_train_transformer_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "image": "espnetkan-bayashi_csmsc_tts_train_transformer_raw_phn_pypinyin_g2p_phone_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_csmsc_tts_train_vits_raw_phn_pypinyin_g2p_phone_train.total_count.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_csmsc_tts_train_vits_raw_phn_pypinyin_g2p_phone_train.total_count.ave",
+        "image": "espnetkan-bayashi_csmsc_tts_train_vits_raw_phn_pypinyin_g2p_phone_train.total_count.ave",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_conformer_fastspeech2_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-15ef5f",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-15ef5f",
+        "image": "espnetkan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-15ef5f",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-a7f080",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-a7f080",
+        "image": "espnetkan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-a7f080",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-569e81",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-569e81",
+        "image": "espnetkan-bayashi_jsut_tts_train_conformer_fastspeech2_tacotron2_teacher_raw-truncated-569e81",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-35ef5a",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-35ef5a",
+        "image": "espnetkan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-35ef5a",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-74c1b4",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-74c1b4",
+        "image": "espnetkan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-74c1b4",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-f43d8f",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-f43d8f",
+        "image": "espnetkan-bayashi_jsut_tts_train_conformer_fastspeech2_transformer_teacher_r-truncated-f43d8f",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_fastspeech2_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_fastspeech2_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_fastspeech2_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_fastspeech2_tacotron2_teacher_raw_phn_jacon-truncated-f45dcb",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_fastspeech2_tacotron2_teacher_raw_phn_jacon-truncated-f45dcb",
+        "image": "espnetkan-bayashi_jsut_tts_train_fastspeech2_tacotron2_teacher_raw_phn_jacon-truncated-f45dcb",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_fastspeech2_tacotron2_teacher_raw_phn_jacon-truncated-e5d906",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_fastspeech2_tacotron2_teacher_raw_phn_jacon-truncated-e5d906",
+        "image": "espnetkan-bayashi_jsut_tts_train_fastspeech2_tacotron2_teacher_raw_phn_jacon-truncated-e5d906",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_fastspeech2_transformer_teacher_raw_phn_jac-truncated-6f4cf5",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_fastspeech2_transformer_teacher_raw_phn_jac-truncated-6f4cf5",
+        "image": "espnetkan-bayashi_jsut_tts_train_fastspeech2_transformer_teacher_raw_phn_jac-truncated-6f4cf5",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_fastspeech2_transformer_teacher_raw_phn_jac-truncated-60fc24",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_fastspeech2_transformer_teacher_raw_phn_jac-truncated-60fc24",
+        "image": "espnetkan-bayashi_jsut_tts_train_fastspeech2_transformer_teacher_raw_phn_jac-truncated-60fc24",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_fastspeech_raw_phn_jaconv_pyopenjtalk_train.loss.best",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_fastspeech_raw_phn_jaconv_pyopenjtalk_train.loss.best",
+        "image": "espnetkan-bayashi_jsut_tts_train_fastspeech_raw_phn_jaconv_pyopenjtalk_train.loss.best",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_full_band_vits_raw_phn_jaconv_pyopenjtalk_a-truncated-d7d5d0",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_full_band_vits_raw_phn_jaconv_pyopenjtalk_a-truncated-d7d5d0",
+        "image": "espnetkan-bayashi_jsut_tts_train_full_band_vits_raw_phn_jaconv_pyopenjtalk_a-truncated-d7d5d0",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_full_band_vits_raw_phn_jaconv_pyopenjtalk_p-truncated-66d5fc",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_full_band_vits_raw_phn_jaconv_pyopenjtalk_p-truncated-66d5fc",
+        "image": "espnetkan-bayashi_jsut_tts_train_full_band_vits_raw_phn_jaconv_pyopenjtalk_p-truncated-66d5fc",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_accent_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_accent_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_accent_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_accent_with_pause_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_accent_with_pause_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_accent_with_pause_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_prosody_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_prosody_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_prosody_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_train.loss.best",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_train.loss.best",
+        "image": "espnetkan-bayashi_jsut_tts_train_tacotron2_raw_phn_jaconv_pyopenjtalk_train.loss.best",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_accent_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_accent_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_accent_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_acce-truncated-be0f66",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_acce-truncated-be0f66",
+        "image": "espnetkan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_acce-truncated-be0f66",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_prosody_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_prosody_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_prosody_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_transformer_raw_phn_jaconv_pyopenjtalk_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_vits_raw_phn_jaconv_pyopenjtalk_accent_with-truncated-ba3566",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_vits_raw_phn_jaconv_pyopenjtalk_accent_with-truncated-ba3566",
+        "image": "espnetkan-bayashi_jsut_tts_train_vits_raw_phn_jaconv_pyopenjtalk_accent_with-truncated-ba3566",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jsut_tts_train_vits_raw_phn_jaconv_pyopenjtalk_prosody_train.total_count.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jsut_tts_train_vits_raw_phn_jaconv_pyopenjtalk_prosody_train.total_count.ave",
+        "image": "espnetkan-bayashi_jsut_tts_train_vits_raw_phn_jaconv_pyopenjtalk_prosody_train.total_count.ave",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jvs_tts_finetune_jvs001_jsut_vits_raw_phn_jaconv_pyopenjta-truncated-178804",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jvs_tts_finetune_jvs001_jsut_vits_raw_phn_jaconv_pyopenjta-truncated-178804",
+        "image": "espnetkan-bayashi_jvs_tts_finetune_jvs001_jsut_vits_raw_phn_jaconv_pyopenjta-truncated-178804",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jvs_tts_finetune_jvs010_jsut_vits_raw_phn_jaconv_pyopenjta-truncated-d57a28",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jvs_tts_finetune_jvs010_jsut_vits_raw_phn_jaconv_pyopenjta-truncated-d57a28",
+        "image": "espnetkan-bayashi_jvs_tts_finetune_jvs010_jsut_vits_raw_phn_jaconv_pyopenjta-truncated-d57a28",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_jvs_tts_finetune_jvs010_jsut_vits_raw_phn_jaconv_pyopenjtalk_prosody_latest",
+        "url": "https://huggingface.co/espnet/kan-bayashi_jvs_tts_finetune_jvs010_jsut_vits_raw_phn_jaconv_pyopenjtalk_prosody_latest",
+        "image": "espnetkan-bayashi_jvs_tts_finetune_jvs010_jsut_vits_raw_phn_jaconv_pyopenjtalk_prosody_latest",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_libritts_tts_train_gst_xvector_conformer_fastspeech2_trans-truncated-c3209b",
+        "url": "https://huggingface.co/espnet/kan-bayashi_libritts_tts_train_gst_xvector_conformer_fastspeech2_trans-truncated-c3209b",
+        "image": "espnetkan-bayashi_libritts_tts_train_gst_xvector_conformer_fastspeech2_trans-truncated-c3209b",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_libritts_tts_train_gst_xvector_trasnformer_raw_phn_tacotro-truncated-250027",
+        "url": "https://huggingface.co/espnet/kan-bayashi_libritts_tts_train_gst_xvector_trasnformer_raw_phn_tacotro-truncated-250027",
+        "image": "espnetkan-bayashi_libritts_tts_train_gst_xvector_trasnformer_raw_phn_tacotro-truncated-250027",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_libritts_tts_train_xvector_conformer_fastspeech2_transform-truncated-42b443",
+        "url": "https://huggingface.co/espnet/kan-bayashi_libritts_tts_train_xvector_conformer_fastspeech2_transform-truncated-42b443",
+        "image": "espnetkan-bayashi_libritts_tts_train_xvector_conformer_fastspeech2_transform-truncated-42b443",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_libritts_tts_train_xvector_trasnformer_raw_phn_tacotron_g2-truncated-e5fb13",
+        "url": "https://huggingface.co/espnet/kan-bayashi_libritts_tts_train_xvector_trasnformer_raw_phn_tacotron_g2-truncated-e5fb13",
+        "image": "espnetkan-bayashi_libritts_tts_train_xvector_trasnformer_raw_phn_tacotron_g2-truncated-e5fb13",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_libritts_tts_train_xvector_vits_raw_phn_tacotron_g2p_en_no-truncated-09d645",
+        "url": "https://huggingface.co/espnet/kan-bayashi_libritts_tts_train_xvector_vits_raw_phn_tacotron_g2p_en_no-truncated-09d645",
+        "image": "espnetkan-bayashi_libritts_tts_train_xvector_vits_raw_phn_tacotron_g2p_en_no-truncated-09d645",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_ljspeech_tts_finetune_joint_conformer_fastspeech2_hifigan_-truncated-737899",
+        "url": "https://huggingface.co/espnet/kan-bayashi_ljspeech_tts_finetune_joint_conformer_fastspeech2_hifigan_-truncated-737899",
+        "image": "espnetkan-bayashi_ljspeech_tts_finetune_joint_conformer_fastspeech2_hifigan_-truncated-737899",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_ljspeech_tts_train_conformer_fastspeech2_raw_phn_tacotron_-truncated-ec9e34",
+        "url": "https://huggingface.co/espnet/kan-bayashi_ljspeech_tts_train_conformer_fastspeech2_raw_phn_tacotron_-truncated-ec9e34",
+        "image": "espnetkan-bayashi_ljspeech_tts_train_conformer_fastspeech2_raw_phn_tacotron_-truncated-ec9e34",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/kan-bayashi_ljspeech_tts_train_fastspeech2_raw_phn_tacotron_g2p_en_no_space_train.loss.ave",
+        "url": "https://huggingface.co/espnet/kan-bayashi_ljspeech_tts_train_fastspeech2_raw_phn_tacotron_g2p_en_no_space_train.loss.ave",
+        "image": "espnetkan-bayashi_ljspeech_tts_train_fastspeech2_raw_phn_tacotron_g2p_en_no_space_train.loss.ave",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    }
+]

@@ -1,0 +1,1146 @@
+[
+    {
+        "title": "ResembleAI/chatterbox",
+        "url": "https://huggingface.co/ResembleAI/chatterbox",
+        "image": "ResembleAIchatterbox",
+        "parameters": null,
+        "download_last_month": "880,298",
+        "model_tree": []
+    },
+    {
+        "title": "meituan-longcat/LongCat-Flash-Chat",
+        "url": "https://huggingface.co/meituan-longcat/LongCat-Flash-Chat",
+        "image": "meituan-longcatLongCat-Flash-Chat",
+        "parameters": "562B params",
+        "download_last_month": "22,335",
+        "model_tree": [
+            "Adapters1 model",
+            "Finetunes3 models",
+            "Quantizations4 models"
+        ]
+    },
+    {
+        "title": "meta-llama/Llama-2-7b-chat-hf",
+        "url": "https://huggingface.co/meta-llama/Llama-2-7b-chat-hf",
+        "image": "meta-llamaLlama-2-7b-chat-hf",
+        "parameters": "7B params",
+        "download_last_month": "601,404",
+        "model_tree": [
+            "Adapters1173 models",
+            "Finetunes547 models",
+            "Merges5 models",
+            "Quantizations94 models"
+        ]
+    },
+    {
+        "title": "zai-org/chatglm3-6b",
+        "url": "https://huggingface.co/zai-org/chatglm3-6b",
+        "image": "zai-orgchatglm3-6b",
+        "parameters": "6B params",
+        "download_last_month": "62,941",
+        "model_tree": [
+            "Adapters11 models",
+            "Finetunes5 models",
+            "Quantizations16 models"
+        ]
+    },
+    {
+        "title": "deepseek-ai/deepseek-llm-7b-chat",
+        "url": "https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat",
+        "image": "deepseek-aideepseek-llm-7b-chat",
+        "parameters": null,
+        "download_last_month": "85,385",
+        "model_tree": []
+    },
+    {
+        "title": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "url": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "image": "TinyLlamaTinyLlama-1.1B-Chat-v1.0",
+        "parameters": "1B params",
+        "download_last_month": "3,431,091",
+        "model_tree": [
+            "Adapters1228 models",
+            "Finetunes439 models",
+            "Merges28 models",
+            "Quantizations110 models"
+        ]
+    },
+    {
+        "title": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
+        "url": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "83,387",
+        "model_tree": []
+    },
+    {
+        "title": "2Noise/ChatTTS",
+        "url": "https://huggingface.co/2Noise/ChatTTS",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1,068",
+        "model_tree": []
+    },
+    {
+        "title": "TheBloke/Llama-2-7B-Chat-GGUF",
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "60,074",
+        "model_tree": []
+    },
+    {
+        "title": "deepseek-ai/deepseek-moe-16b-chat",
+        "url": "https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat",
+        "image": "deepseek-aideepseek-moe-16b-chat",
+        "parameters": "16B params",
+        "download_last_month": "5,097",
+        "model_tree": [
+            "Finetunes1 model",
+            "Quantizations11 models"
+        ]
+    },
+    {
+        "title": "onnx-community/chatterbox-ONNX",
+        "url": "https://huggingface.co/onnx-community/chatterbox-ONNX",
+        "image": "onnx-communitychatterbox-ONNX",
+        "parameters": null,
+        "download_last_month": "63",
+        "model_tree": []
+    },
+    {
+        "title": "Xipotzzz/blip2zh-chatglm-6b",
+        "url": "https://huggingface.co/Xipotzzz/blip2zh-chatglm-6b",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "6",
+        "model_tree": []
+    },
+    {
+        "title": "zai-org/chatglm2-6b",
+        "url": "https://huggingface.co/zai-org/chatglm2-6b",
+        "image": "zai-orgchatglm2-6b",
+        "parameters": null,
+        "download_last_month": "666,135",
+        "model_tree": []
+    },
+    {
+        "title": "meta-llama/Llama-2-70b-chat-hf",
+        "url": "https://huggingface.co/meta-llama/Llama-2-70b-chat-hf",
+        "image": "meta-llamaLlama-2-70b-chat-hf",
+        "parameters": "69B params",
+        "download_last_month": "32,415",
+        "model_tree": [
+            "Adapters14 models",
+            "Finetunes6 models",
+            "Quantizations12 models"
+        ]
+    },
+    {
+        "title": "georgesung/llama2_7b_chat_uncensored",
+        "url": "https://huggingface.co/georgesung/llama2_7b_chat_uncensored",
+        "image": "hugging_face_logo",
+        "parameters": "7B params",
+        "download_last_month": "1,006",
+        "model_tree": [
+            "Finetunes3 models",
+            "Merges2 models",
+            "Quantizations5 models"
+        ]
+    },
+    {
+        "title": "Chat-Error/Kimiko-v2-13B",
+        "url": "https://huggingface.co/Chat-Error/Kimiko-v2-13B",
+        "image": "Chat-ErrorKimiko-v2-13B",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "TheBloke/Llama-2-7B-Chat-AWQ",
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-Chat-AWQ",
+        "image": "hugging_face_logo",
+        "parameters": "1B params",
+        "download_last_month": "3,879",
+        "model_tree": []
+    },
+    {
+        "title": "Intel/neural-chat-7b-v3-1",
+        "url": "https://huggingface.co/Intel/neural-chat-7b-v3-1",
+        "image": "Intelneural-chat-7b-v3-1",
+        "parameters": "7B params",
+        "download_last_month": "5,006",
+        "model_tree": []
+    },
+    {
+        "title": "Qwen/Qwen-1_8B-Chat",
+        "url": "https://huggingface.co/Qwen/Qwen-1_8B-Chat",
+        "image": "QwenQwen-1_8B-Chat",
+        "parameters": "2B params",
+        "download_last_month": "6,104",
+        "model_tree": [
+            "Adapters6 models",
+            "Finetunes1 model",
+            "Quantizations4 models"
+        ]
+    },
+    {
+        "title": "mtgv/MobileLLaMA-2.7B-Chat",
+        "url": "https://huggingface.co/mtgv/MobileLLaMA-2.7B-Chat",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "6",
+        "model_tree": []
+    },
+    {
+        "title": "malhajar/meditron-70b-chat",
+        "url": "https://huggingface.co/malhajar/meditron-70b-chat",
+        "image": "hugging_face_logo",
+        "parameters": "69B params",
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "Viet-Mistral/Vistral-7B-Chat",
+        "url": "https://huggingface.co/Viet-Mistral/Vistral-7B-Chat",
+        "image": "Viet-MistralVistral-7B-Chat",
+        "parameters": "7B params",
+        "download_last_month": "4,983",
+        "model_tree": [
+            "Adapters50 models",
+            "Finetunes29 models",
+            "Quantizations16 models"
+        ]
+    },
+    {
+        "title": "OrionStarAI/Orion-14B-Chat",
+        "url": "https://huggingface.co/OrionStarAI/Orion-14B-Chat",
+        "image": "OrionStarAIOrion-14B-Chat",
+        "parameters": null,
+        "download_last_month": "9,463",
+        "model_tree": [
+            "Adapters4 models",
+            "Finetunes1 model",
+            "Quantizations3 models"
+        ]
+    },
+    {
+        "title": "sambanovasystems/SambaLingo-Hungarian-Chat",
+        "url": "https://huggingface.co/sambanovasystems/SambaLingo-Hungarian-Chat",
+        "image": "sambanovasystemsSambaLingo-Hungarian-Chat",
+        "parameters": "7B params",
+        "download_last_month": "107",
+        "model_tree": [
+            "Quantizations4 models"
+        ]
+    },
+    {
+        "title": "h2oai/h2o-danube2-1.8b-chat",
+        "url": "https://huggingface.co/h2oai/h2o-danube2-1.8b-chat",
+        "image": "h2oaih2o-danube2-1.8b-chat",
+        "parameters": "2B params",
+        "download_last_month": "111",
+        "model_tree": [
+            "Finetunes2 models",
+            "Quantizations7 models"
+        ]
+    },
+    {
+        "title": "TFMC/Japanese-Starling-ChatV-7B-GGUF",
+        "url": "https://huggingface.co/TFMC/Japanese-Starling-ChatV-7B-GGUF",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "209",
+        "model_tree": []
+    },
+    {
+        "title": "taide/TAIDE-LX-7B-Chat-4bit",
+        "url": "https://huggingface.co/taide/TAIDE-LX-7B-Chat-4bit",
+        "image": "taideTAIDE-LX-7B-Chat-4bit",
+        "parameters": null,
+        "download_last_month": "24",
+        "model_tree": []
+    },
+    {
+        "title": "shenzhi-wang/Llama3-8B-Chinese-Chat",
+        "url": "https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat",
+        "image": "hugging_face_logo",
+        "parameters": "8B params",
+        "download_last_month": "8,849",
+        "model_tree": []
+    },
+    {
+        "title": "Qwen/Qwen1.5-110B-Chat-GPTQ-Int4",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-110B-Chat-GPTQ-Int4",
+        "image": "QwenQwen1.5-110B-Chat-GPTQ-Int4",
+        "parameters": "17B params",
+        "download_last_month": "10,813",
+        "model_tree": []
+    },
+    {
+        "title": "bartowski/Yi-1.5-34B-Chat-GGUF",
+        "url": "https://huggingface.co/bartowski/Yi-1.5-34B-Chat-GGUF",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "478",
+        "model_tree": []
+    },
+    {
+        "title": "lmstudio-community/Yi-1.5-34B-Chat-GGUF",
+        "url": "https://huggingface.co/lmstudio-community/Yi-1.5-34B-Chat-GGUF",
+        "image": "lmstudio-communityYi-1.5-34B-Chat-GGUF",
+        "parameters": null,
+        "download_last_month": "135",
+        "model_tree": []
+    },
+    {
+        "title": "linjc16/Panacea-7B-Chat",
+        "url": "https://huggingface.co/linjc16/Panacea-7B-Chat",
+        "image": "hugging_face_logo",
+        "parameters": "7B params",
+        "download_last_month": "111",
+        "model_tree": []
+    },
+    {
+        "title": "cyberagent/calm3-22b-chat",
+        "url": "https://huggingface.co/cyberagent/calm3-22b-chat",
+        "image": "cyberagentcalm3-22b-chat",
+        "parameters": "23B params",
+        "download_last_month": "1,218",
+        "model_tree": [
+            "Finetunes4 models",
+            "Merges1 model"
+        ]
+    },
+    {
+        "title": "inceptionai/jais-adapted-13b-chat",
+        "url": "https://huggingface.co/inceptionai/jais-adapted-13b-chat",
+        "image": "inceptionaijais-adapted-13b-chat",
+        "parameters": "13B params",
+        "download_last_month": "3,417",
+        "model_tree": []
+    },
+    {
+        "title": "infly/InfMLLM2_7B_chat",
+        "url": "https://huggingface.co/infly/InfMLLM2_7B_chat",
+        "image": "inflyInfMLLM2_7B_chat",
+        "parameters": "8B params",
+        "download_last_month": "34",
+        "model_tree": []
+    },
+    {
+        "title": "tanusrich/Mental_Health_Chatbot",
+        "url": "https://huggingface.co/tanusrich/Mental_Health_Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": "7B params",
+        "download_last_month": "441",
+        "model_tree": []
+    },
+    {
+        "title": "Junrui2021/chatglm3-6b-Q4_K_M-GGUF",
+        "url": "https://huggingface.co/Junrui2021/chatglm3-6b-Q4_K_M-GGUF",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "21",
+        "model_tree": []
+    },
+    {
+        "title": "OpenGVLab/InternVideo2_5_Chat_8B",
+        "url": "https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B",
+        "image": "OpenGVLabInternVideo2_5_Chat_8B",
+        "parameters": "8B params",
+        "download_last_month": "15,729",
+        "model_tree": [
+            "Finetunes1 model"
+        ]
+    },
+    {
+        "title": "chatpig/encoder",
+        "url": "https://huggingface.co/chatpig/encoder",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5,038",
+        "model_tree": []
+    },
+    {
+        "title": "inceptionai/Llama-3.1-Sherkala-8B-Chat",
+        "url": "https://huggingface.co/inceptionai/Llama-3.1-Sherkala-8B-Chat",
+        "image": "inceptionaiLlama-3.1-Sherkala-8B-Chat",
+        "parameters": "8B params",
+        "download_last_month": "801",
+        "model_tree": []
+    },
+    {
+        "title": "taide/Llama-3.1-TAIDE-LX-8B-Chat",
+        "url": "https://huggingface.co/taide/Llama-3.1-TAIDE-LX-8B-Chat",
+        "image": "taideLlama-3.1-TAIDE-LX-8B-Chat",
+        "parameters": "9B params",
+        "download_last_month": "1,349",
+        "model_tree": [
+            "Adapters2 models",
+            "Finetunes28 models",
+            "Merges1 model",
+            "Quantizations2 models"
+        ]
+    },
+    {
+        "title": "stepfun-ai/Step-Audio-Chat",
+        "url": "https://huggingface.co/stepfun-ai/Step-Audio-Chat",
+        "image": "stepfun-aiStep-Audio-Chat",
+        "parameters": "132B params",
+        "download_last_month": "78",
+        "model_tree": []
+    },
+    {
+        "title": "flypg/Japanese-Starling-ChatV-7B-anime-GGUF",
+        "url": "https://huggingface.co/flypg/Japanese-Starling-ChatV-7B-anime-GGUF",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "litert-community/TinyLlama-1.1B-Chat-v1.0",
+        "url": "https://huggingface.co/litert-community/TinyLlama-1.1B-Chat-v1.0",
+        "image": "litert-communityTinyLlama-1.1B-Chat-v1.0",
+        "parameters": null,
+        "download_last_month": "587",
+        "model_tree": []
+    },
+    {
+        "title": "menzo-ai/mental-health-chatbot",
+        "url": "https://huggingface.co/menzo-ai/mental-health-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": "7B params",
+        "download_last_month": "193",
+        "model_tree": []
+    },
+    {
+        "title": "microsoft/chatbench-llama3-8b",
+        "url": "https://huggingface.co/microsoft/chatbench-llama3-8b",
+        "image": "microsoftchatbench-llama3-8b",
+        "parameters": null,
+        "download_last_month": "29",
+        "model_tree": []
+    },
+    {
+        "title": "ViorikaAI/ViorikaLM-CHAT",
+        "url": "https://huggingface.co/ViorikaAI/ViorikaLM-CHAT",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "8",
+        "model_tree": []
+    },
+    {
+        "title": "meituan-longcat/LongCat-Flash-Chat-FP8",
+        "url": "https://huggingface.co/meituan-longcat/LongCat-Flash-Chat-FP8",
+        "image": "meituan-longcatLongCat-Flash-Chat-FP8",
+        "parameters": "562B params",
+        "download_last_month": "1,023",
+        "model_tree": []
+    },
+    {
+        "title": "Dushan6767/srinova-ai-v2-deepseek-sinhala-chat",
+        "url": "https://huggingface.co/Dushan6767/srinova-ai-v2-deepseek-sinhala-chat",
+        "image": "hugging_face_logo",
+        "parameters": "16B params",
+        "download_last_month": "121",
+        "model_tree": []
+    },
+    {
+        "title": "Thomcles/chatterbox-Czech",
+        "url": "https://huggingface.co/Thomcles/chatterbox-Czech",
+        "image": "Thomcleschatterbox-Czech",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Bc-AI/sam-x-chat-instruct",
+        "url": "https://huggingface.co/Bc-AI/sam-x-chat-instruct",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "noctrex/DeepSeek-MoE-16B-Chat-MXFP4_MOE-GGUF",
+        "url": "https://huggingface.co/noctrex/DeepSeek-MoE-16B-Chat-MXFP4_MOE-GGUF",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "236",
+        "model_tree": []
+    },
+    {
+        "title": "DarkNeuron-AI/darkneuron-chat-v1.1",
+        "url": "https://huggingface.co/DarkNeuron-AI/darkneuron-chat-v1.1",
+        "image": "hugging_face_logo",
+        "parameters": "81.9M params",
+        "download_last_month": "78",
+        "model_tree": []
+    },
+    {
+        "title": "alimama2/menstrual-health-chatbot-flan-t5",
+        "url": "https://huggingface.co/alimama2/menstrual-health-chatbot-flan-t5",
+        "image": "hugging_face_logo",
+        "parameters": "77M params",
+        "download_last_month": "24",
+        "model_tree": []
+    },
+    {
+        "title": "Ajteks/Chatbot",
+        "url": "https://huggingface.co/Ajteks/Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Eashwar/test_chatbot",
+        "url": "https://huggingface.co/Eashwar/test_chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "EasthShin/Chatbot-LisaSimpson-DialoGPT",
+        "url": "https://huggingface.co/EasthShin/Chatbot-LisaSimpson-DialoGPT",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "4",
+        "model_tree": []
+    },
+    {
+        "title": "EasthShin/Youth_Chatbot_Kogpt2-base",
+        "url": "https://huggingface.co/EasthShin/Youth_Chatbot_Kogpt2-base",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "7",
+        "model_tree": []
+    },
+    {
+        "title": "Ewan1011/phoenixbot-chat",
+        "url": "https://huggingface.co/Ewan1011/phoenixbot-chat",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Icemiser/chat-test",
+        "url": "https://huggingface.co/Icemiser/chat-test",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "Invincible/Chat_bot-Harrypotter-medium",
+        "url": "https://huggingface.co/Invincible/Chat_bot-Harrypotter-medium",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "Invincible/Chat_bot-Harrypotter-small",
+        "url": "https://huggingface.co/Invincible/Chat_bot-Harrypotter-small",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "Invincible/Harry-potter-chatbot-medium",
+        "url": "https://huggingface.co/Invincible/Harry-potter-chatbot-medium",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "ItelAi/Chatbot",
+        "url": "https://huggingface.co/ItelAi/Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "JarvisZHAO/chatbot",
+        "url": "https://huggingface.co/JarvisZHAO/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "JonathanLehner/Chatbot",
+        "url": "https://huggingface.co/JonathanLehner/Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "KaluSenpaii/Chatbot",
+        "url": "https://huggingface.co/KaluSenpaii/Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Kiinitix/Butler-chatbot",
+        "url": "https://huggingface.co/Kiinitix/Butler-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Mara/Discord_Chatbot",
+        "url": "https://huggingface.co/Mara/Discord_Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Mayukojo/Travel_chatbot",
+        "url": "https://huggingface.co/Mayukojo/Travel_chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "MoeZilla/Chatbot",
+        "url": "https://huggingface.co/MoeZilla/Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "14",
+        "model_tree": []
+    },
+    {
+        "title": "MoeZilla/Itel-chatbot",
+        "url": "https://huggingface.co/MoeZilla/Itel-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "N8Daawg/chat_bot",
+        "url": "https://huggingface.co/N8Daawg/chat_bot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Nerdy/ChatBot",
+        "url": "https://huggingface.co/Nerdy/ChatBot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Nomi97/Chatbot_QA",
+        "url": "https://huggingface.co/Nomi97/Chatbot_QA",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "Obesitycart/ChatBot",
+        "url": "https://huggingface.co/Obesitycart/ChatBot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "DevSrijit/chatbot",
+        "url": "https://huggingface.co/DevSrijit/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "PeterH/Chatbot",
+        "url": "https://huggingface.co/PeterH/Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "QuentinColdwater/q_coldwater_chatbot",
+        "url": "https://huggingface.co/QuentinColdwater/q_coldwater_chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "QuentinColdwater/quentin_chatbot",
+        "url": "https://huggingface.co/QuentinColdwater/quentin_chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "REAP3R/Chat-bot",
+        "url": "https://huggingface.co/REAP3R/Chat-bot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "RTM/ChatBot",
+        "url": "https://huggingface.co/RTM/ChatBot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "RixEtte/chatbot",
+        "url": "https://huggingface.co/RixEtte/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "TheSkrill/ChatBot-CS-583",
+        "url": "https://huggingface.co/TheSkrill/ChatBot-CS-583",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Uvindu/Uvindu-chat-bot",
+        "url": "https://huggingface.co/Uvindu/Uvindu-chat-bot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Yoshisaur/kono-chat",
+        "url": "https://huggingface.co/Yoshisaur/kono-chat",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "6",
+        "model_tree": []
+    },
+    {
+        "title": "Ysa/Chat-Pizza",
+        "url": "https://huggingface.co/Ysa/Chat-Pizza",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "blake8086/chat1",
+        "url": "https://huggingface.co/blake8086/chat1",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "bypequeno/small-gpt2-chatbot-michael_scott",
+        "url": "https://huggingface.co/bypequeno/small-gpt2-chatbot-michael_scott",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "cedpsam/chatbot_fr",
+        "url": "https://huggingface.co/cedpsam/chatbot_fr",
+        "image": "hugging_face_logo",
+        "parameters": "0.4B params",
+        "download_last_month": "17",
+        "model_tree": []
+    },
+    {
+        "title": "danny481/Final_ChatBot",
+        "url": "https://huggingface.co/danny481/Final_ChatBot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "gd2021/empathetic_chatbot",
+        "url": "https://huggingface.co/gd2021/empathetic_chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "grayson124/chatbotwaifu",
+        "url": "https://huggingface.co/grayson124/chatbotwaifu",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "igardner/test_chat",
+        "url": "https://huggingface.co/igardner/test_chat",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "jespinozaq/hamlet-chatbot",
+        "url": "https://huggingface.co/jespinozaq/hamlet-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "josedlhm/chatbot",
+        "url": "https://huggingface.co/josedlhm/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "josedlhm/chatbot_jose",
+        "url": "https://huggingface.co/josedlhm/chatbot_jose",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "kaedefuto/chat_bot",
+        "url": "https://huggingface.co/kaedefuto/chat_bot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "kco4776/kogpt-chat",
+        "url": "https://huggingface.co/kco4776/kogpt-chat",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "liam168/chat-DialoGPT-small-en",
+        "url": "https://huggingface.co/liam168/chat-DialoGPT-small-en",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "7",
+        "model_tree": []
+    },
+    {
+        "title": "liam168/chat-DialoGPT-small-zh",
+        "url": "https://huggingface.co/liam168/chat-DialoGPT-small-zh",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "4",
+        "model_tree": []
+    },
+    {
+        "title": "nikitam/mbert-tlm-chat-en-de",
+        "url": "https://huggingface.co/nikitam/mbert-tlm-chat-en-de",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nikitam/mbert-tlm-chat-en-it",
+        "url": "https://huggingface.co/nikitam/mbert-tlm-chat-en-it",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nikitam/mbert-tlm-chat-en-zh",
+        "url": "https://huggingface.co/nikitam/mbert-tlm-chat-en-zh",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "npc-engine/exported-bart-light-gail-chatbot",
+        "url": "https://huggingface.co/npc-engine/exported-bart-light-gail-chatbot",
+        "image": "npc-engineexported-bart-light-gail-chatbot",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "ogpat23/Jules-Chatbot",
+        "url": "https://huggingface.co/ogpat23/Jules-Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "p4j4r0/Chat_Bot_GPT_Small_model",
+        "url": "https://huggingface.co/p4j4r0/Chat_Bot_GPT_Small_model",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "piccihimu/chatbot2.0",
+        "url": "https://huggingface.co/piccihimu/chatbot2.0",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "proffbeat/chatbot",
+        "url": "https://huggingface.co/proffbeat/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "ps2102/harry-potter-chatbot",
+        "url": "https://huggingface.co/ps2102/harry-potter-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "rahulMishra05/discord-chat-bot",
+        "url": "https://huggingface.co/rahulMishra05/discord-chat-bot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "-",
+        "model_tree": []
+    },
+    {
+        "title": "rovai/Chat_pytorch1",
+        "url": "https://huggingface.co/rovai/Chat_pytorch1",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "4",
+        "model_tree": []
+    },
+    {
+        "title": "rovai/chatbotmedium1",
+        "url": "https://huggingface.co/rovai/chatbotmedium1",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "4",
+        "model_tree": []
+    },
+    {
+        "title": "rovai/chatbotmedium2",
+        "url": "https://huggingface.co/rovai/chatbotmedium2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "rovai/chatbotmedium3",
+        "url": "https://huggingface.co/rovai/chatbotmedium3",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "rovai/chatbotmedium4",
+        "url": "https://huggingface.co/rovai/chatbotmedium4",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "rovai/chatbotone",
+        "url": "https://huggingface.co/rovai/chatbotone",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "satvikag/chatbot",
+        "url": "https://huggingface.co/satvikag/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "213",
+        "model_tree": []
+    },
+    {
+        "title": "satvikag/chatbot2",
+        "url": "https://huggingface.co/satvikag/chatbot2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "sergunow/movie-chat",
+        "url": "https://huggingface.co/sergunow/movie-chat",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "terificknight/Chat-Bot",
+        "url": "https://huggingface.co/terificknight/Chat-Bot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "thinhda/chatbot",
+        "url": "https://huggingface.co/thinhda/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "trig/sokka-chatbot-test",
+        "url": "https://huggingface.co/trig/sokka-chatbot-test",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "ushikado/yuyuyui-chatbot",
+        "url": "https://huggingface.co/ushikado/yuyuyui-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "valeriazen/ruT5-base-finetuned-plenka-chatbot-full",
+        "url": "https://huggingface.co/valeriazen/ruT5-base-finetuned-plenka-chatbot-full",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "valeriazen/ruT5-base-finetuned-plenka-chatbot",
+        "url": "https://huggingface.co/valeriazen/ruT5-base-finetuned-plenka-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "vigneshmoorthy/chatbot-harry",
+        "url": "https://huggingface.co/vigneshmoorthy/chatbot-harry",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "ylh1013/fintune-ja-chatbot",
+        "url": "https://huggingface.co/ylh1013/fintune-ja-chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "ylh1013/ja_chatbot",
+        "url": "https://huggingface.co/ylh1013/ja_chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "yuvraj508/chatbot",
+        "url": "https://huggingface.co/yuvraj508/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Patrik/chatbot",
+        "url": "https://huggingface.co/Patrik/chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "yugasa/Chatbots-for-the-Automotive-Industry",
+        "url": "https://huggingface.co/yugasa/Chatbots-for-the-Automotive-Industry",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "vanilladucky/Friends_chatting_bot",
+        "url": "https://huggingface.co/vanilladucky/Friends_chatting_bot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "6",
+        "model_tree": []
+    },
+    {
+        "title": "vanilladucky/Friends_chatting_bot_redefined",
+        "url": "https://huggingface.co/vanilladucky/Friends_chatting_bot_redefined",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "PsyCode/Chatbot",
+        "url": "https://huggingface.co/PsyCode/Chatbot",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "fonseca-carlos/chatbot-test",
+        "url": "https://huggingface.co/fonseca-carlos/chatbot-test",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    }
+]

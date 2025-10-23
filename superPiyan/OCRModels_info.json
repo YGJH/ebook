@@ -1,0 +1,788 @@
+[
+    {
+        "title": "deepseek-ai/DeepSeek-OCR",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-OCR",
+        "image": "deepseek-aiDeepSeek-OCR",
+        "parameters": "3B params",
+        "download_last_month": "302,402",
+        "model_tree": [
+            "Adapters3 models",
+            "Finetunes3 models",
+            "Merges1 model"
+        ]
+    },
+    {
+        "title": "nanonets/Nanonets-OCR2-3B",
+        "url": "https://huggingface.co/nanonets/Nanonets-OCR2-3B",
+        "image": "nanonetsNanonets-OCR2-3B",
+        "parameters": "4B params",
+        "download_last_month": "19,888",
+        "model_tree": []
+    },
+    {
+        "title": "rednote-hilab/dots.ocr",
+        "url": "https://huggingface.co/rednote-hilab/dots.ocr",
+        "image": "rednote-hilabdots.ocr",
+        "parameters": "3B params",
+        "download_last_month": "1,228,649",
+        "model_tree": [
+            "Finetunes2 models",
+            "Quantizations2 models"
+        ]
+    },
+    {
+        "title": "nanonets/Nanonets-OCR2-1.5B-exp",
+        "url": "https://huggingface.co/nanonets/Nanonets-OCR2-1.5B-exp",
+        "image": "nanonetsNanonets-OCR2-1.5B-exp",
+        "parameters": "2B params",
+        "download_last_month": "18,046",
+        "model_tree": []
+    },
+    {
+        "title": "nanonets/Nanonets-OCR-s",
+        "url": "https://huggingface.co/nanonets/Nanonets-OCR-s",
+        "image": "nanonetsNanonets-OCR-s",
+        "parameters": "4B params",
+        "download_last_month": "101,180",
+        "model_tree": []
+    },
+    {
+        "title": "stepfun-ai/GOT-OCR2_0",
+        "url": "https://huggingface.co/stepfun-ai/GOT-OCR2_0",
+        "image": "stepfun-aiGOT-OCR2_0",
+        "parameters": "0.7B params",
+        "download_last_month": "49,118",
+        "model_tree": [
+            "Adapters2 models",
+            "Finetunes5 models",
+            "Quantizations1 model"
+        ]
+    },
+    {
+        "title": "l0wgear/manga-ocr-2025-onnx",
+        "url": "https://huggingface.co/l0wgear/manga-ocr-2025-onnx",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "210",
+        "model_tree": []
+    },
+    {
+        "title": "farbodpya/Persian-OCR",
+        "url": "https://huggingface.co/farbodpya/Persian-OCR",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "176",
+        "model_tree": []
+    },
+    {
+        "title": "mradermacher/Nanonets-OCR2-3B-GGUF",
+        "url": "https://huggingface.co/mradermacher/Nanonets-OCR2-3B-GGUF",
+        "image": "mradermacherNanonets-OCR2-3B-GGUF",
+        "parameters": null,
+        "download_last_month": "6,911",
+        "model_tree": []
+    },
+    {
+        "title": "kha-white/manga-ocr-base",
+        "url": "https://huggingface.co/kha-white/manga-ocr-base",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "180,584",
+        "model_tree": []
+    },
+    {
+        "title": "stepfun-ai/GOT-OCR-2.0-hf",
+        "url": "https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf",
+        "image": "stepfun-aiGOT-OCR-2.0-hf",
+        "parameters": "0.6B params",
+        "download_last_month": "53,647",
+        "model_tree": [
+            "Adapters1 model"
+        ]
+    },
+    {
+        "title": "keras-io/ocr-for-captcha",
+        "url": "https://huggingface.co/keras-io/ocr-for-captcha",
+        "image": "keras-ioocr-for-captcha",
+        "parameters": null,
+        "download_last_month": "117",
+        "model_tree": []
+    },
+    {
+        "title": "xiaolv/ocr-captcha",
+        "url": "https://huggingface.co/xiaolv/ocr-captcha",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "GnanaPrasath/ocr_tamil",
+        "url": "https://huggingface.co/GnanaPrasath/ocr_tamil",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "AnyModal/LaTeX-OCR-Llama-3.2-1B",
+        "url": "https://huggingface.co/AnyModal/LaTeX-OCR-Llama-3.2-1B",
+        "image": "AnyModalLaTeX-OCR-Llama-3.2-1B",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "prithivMLmods/Qwen2-VL-OCR-2B-Instruct",
+        "url": "https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct",
+        "image": "prithivMLmodsQwen2-VL-OCR-2B-Instruct",
+        "parameters": "2B params",
+        "download_last_month": "4,235",
+        "model_tree": []
+    },
+    {
+        "title": "syntheticbot/ocr-qwen",
+        "url": "https://huggingface.co/syntheticbot/ocr-qwen",
+        "image": "syntheticbotocr-qwen",
+        "parameters": "8B params",
+        "download_last_month": "719",
+        "model_tree": [
+            "Quantizations2 models"
+        ]
+    },
+    {
+        "title": "NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct",
+        "url": "https://huggingface.co/NAMAA-Space/Qari-OCR-v0.3-VL-2B-Instruct",
+        "image": "NAMAA-SpaceQari-OCR-v0.3-VL-2B-Instruct",
+        "parameters": "2B params",
+        "download_last_month": "7,468",
+        "model_tree": [
+            "Finetunes1 model",
+            "Quantizations1 model"
+        ]
+    },
+    {
+        "title": "mayocream/manga-ocr-onnx",
+        "url": "https://huggingface.co/mayocream/manga-ocr-onnx",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "PaddlePaddle/PP-OCRv5_mobile_det",
+        "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det",
+        "image": "PaddlePaddlePP-OCRv5_mobile_det",
+        "parameters": null,
+        "download_last_month": "33,629",
+        "model_tree": []
+    },
+    {
+        "title": "PaddlePaddle/PP-OCRv5_server_rec",
+        "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_server_rec",
+        "image": "PaddlePaddlePP-OCRv5_server_rec",
+        "parameters": null,
+        "download_last_month": "81,723",
+        "model_tree": []
+    },
+    {
+        "title": "PaddlePaddle/korean_PP-OCRv5_mobile_rec",
+        "url": "https://huggingface.co/PaddlePaddle/korean_PP-OCRv5_mobile_rec",
+        "image": "PaddlePaddlekorean_PP-OCRv5_mobile_rec",
+        "parameters": null,
+        "download_last_month": "2,958",
+        "model_tree": []
+    },
+    {
+        "title": "prithivMLmods/Gliese-OCR-7B-Post1.0",
+        "url": "https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0",
+        "image": "prithivMLmodsGliese-OCR-7B-Post1.0",
+        "parameters": "8B params",
+        "download_last_month": "790",
+        "model_tree": []
+    },
+    {
+        "title": "srikarthikv/kannada-ocr-443-classes",
+        "url": "https://huggingface.co/srikarthikv/kannada-ocr-443-classes",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "DevQuasar/nanonets.Nanonets-OCR2-3B-GGUF",
+        "url": "https://huggingface.co/DevQuasar/nanonets.Nanonets-OCR2-3B-GGUF",
+        "image": "DevQuasarnanonets.Nanonets-OCR2-3B-GGUF",
+        "parameters": null,
+        "download_last_month": "406",
+        "model_tree": []
+    },
+    {
+        "title": "bluolightning/manga-ocr-tflite",
+        "url": "https://huggingface.co/bluolightning/manga-ocr-tflite",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "16",
+        "model_tree": []
+    },
+    {
+        "title": "OpenKing/DeepSeek-OCR",
+        "url": "https://huggingface.co/OpenKing/DeepSeek-OCR",
+        "image": "OpenKingDeepSeek-OCR",
+        "parameters": "3B params",
+        "download_last_month": "33",
+        "model_tree": []
+    },
+    {
+        "title": "lvyufeng/DeepSeek-OCR-Community-Latest",
+        "url": "https://huggingface.co/lvyufeng/DeepSeek-OCR-Community-Latest",
+        "image": "hugging_face_logo",
+        "parameters": "3B params",
+        "download_last_month": "40",
+        "model_tree": []
+    },
+    {
+        "title": "ahczhg/DeepSeek-OCR-Colab",
+        "url": "https://huggingface.co/ahczhg/DeepSeek-OCR-Colab",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "byeolcardi/ocr",
+        "url": "https://huggingface.co/byeolcardi/ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "davanstrien/blbooks-bad-ocr-tokenizer",
+        "url": "https://huggingface.co/davanstrien/blbooks-bad-ocr-tokenizer",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "davanstrien/blbooks-good-ocr-tokenizer",
+        "url": "https://huggingface.co/davanstrien/blbooks-good-ocr-tokenizer",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "ml6team/byt5-base-dutch-ocr-correction",
+        "url": "https://huggingface.co/ml6team/byt5-base-dutch-ocr-correction",
+        "image": "ml6teambyt5-base-dutch-ocr-correction",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "naver-clova-ocr/bros-base-uncased",
+        "url": "https://huggingface.co/naver-clova-ocr/bros-base-uncased",
+        "image": "naver-clova-ocrbros-base-uncased",
+        "parameters": null,
+        "download_last_month": "213,754",
+        "model_tree": []
+    },
+    {
+        "title": "naver-clova-ocr/bros-large-uncased",
+        "url": "https://huggingface.co/naver-clova-ocr/bros-large-uncased",
+        "image": "naver-clova-ocrbros-large-uncased",
+        "parameters": null,
+        "download_last_month": "84",
+        "model_tree": []
+    },
+    {
+        "title": "TeamFnord/manga-ocr",
+        "url": "https://huggingface.co/TeamFnord/manga-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "16",
+        "model_tree": []
+    },
+    {
+        "title": "daudi/ocr",
+        "url": "https://huggingface.co/daudi/ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "yhshin/latex-ocr",
+        "url": "https://huggingface.co/yhshin/latex-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "10",
+        "model_tree": []
+    },
+    {
+        "title": "degirum/yolo_v5s_lp_ocr_256x256_quant_n2x_cpu_1",
+        "url": "https://huggingface.co/degirum/yolo_v5s_lp_ocr_256x256_quant_n2x_cpu_1",
+        "image": "degirumyolo_v5s_lp_ocr_256x256_quant_n2x_cpu_1",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "yelpfeast/byt5-base-english-ocr-correction",
+        "url": "https://huggingface.co/yelpfeast/byt5-base-english-ocr-correction",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "12,042",
+        "model_tree": []
+    },
+    {
+        "title": "LukeYang/manga-ocr-base",
+        "url": "https://huggingface.co/LukeYang/manga-ocr-base",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "AdrielAmoguis/Baybayin-OCR",
+        "url": "https://huggingface.co/AdrielAmoguis/Baybayin-OCR",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "whyoke/model_5m_ocr",
+        "url": "https://huggingface.co/whyoke/model_5m_ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "pENrknSoysneed/8kun-captcha-ocr-meme",
+        "url": "https://huggingface.co/pENrknSoysneed/8kun-captcha-ocr-meme",
+        "image": "pENrknSoysneed8kun-captcha-ocr-meme",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "Shari01/LayoutLMv3-Ocr",
+        "url": "https://huggingface.co/Shari01/LayoutLMv3-Ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "jvdzwaan/ocrpostcorrection-task-1",
+        "url": "https://huggingface.co/jvdzwaan/ocrpostcorrection-task-1",
+        "image": "jvdzwaanocrpostcorrection-task-1",
+        "parameters": null,
+        "download_last_month": "6",
+        "model_tree": []
+    },
+    {
+        "title": "gqfwqgw/paddle-ocr",
+        "url": "https://huggingface.co/gqfwqgw/paddle-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "jinhybr/OCR-LM-v1",
+        "url": "https://huggingface.co/jinhybr/OCR-LM-v1",
+        "image": "jinhybrOCR-LM-v1",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "jinhybr/OCR-Donut-CORD",
+        "url": "https://huggingface.co/jinhybr/OCR-Donut-CORD",
+        "image": "jinhybrOCR-Donut-CORD",
+        "parameters": null,
+        "download_last_month": "55",
+        "model_tree": []
+    },
+    {
+        "title": "espnet/iam_handwriting_ocr",
+        "url": "https://huggingface.co/espnet/iam_handwriting_ocr",
+        "image": "espnetiam_handwriting_ocr",
+        "parameters": null,
+        "download_last_month": "4",
+        "model_tree": []
+    },
+    {
+        "title": "jinhybr/OCR-DocVQA-Donut",
+        "url": "https://huggingface.co/jinhybr/OCR-DocVQA-Donut",
+        "image": "jinhybrOCR-DocVQA-Donut",
+        "parameters": null,
+        "download_last_month": "18",
+        "model_tree": []
+    },
+    {
+        "title": "jinhybr/OCR-LayoutLMv3",
+        "url": "https://huggingface.co/jinhybr/OCR-LayoutLMv3",
+        "image": "jinhybrOCR-LayoutLMv3",
+        "parameters": null,
+        "download_last_month": "12",
+        "model_tree": []
+    },
+    {
+        "title": "jinhybr/OCR-LayoutLMv3-Invoice",
+        "url": "https://huggingface.co/jinhybr/OCR-LayoutLMv3-Invoice",
+        "image": "jinhybrOCR-LayoutLMv3-Invoice",
+        "parameters": null,
+        "download_last_month": "72",
+        "model_tree": []
+    },
+    {
+        "title": "jinhybr/OCR-CDIP-DONUT",
+        "url": "https://huggingface.co/jinhybr/OCR-CDIP-DONUT",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "napatswift/test-ocr",
+        "url": "https://huggingface.co/napatswift/test-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "atlijas/byt5-is-ocr-post-processing-old-texts",
+        "url": "https://huggingface.co/atlijas/byt5-is-ocr-post-processing-old-texts",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "11",
+        "model_tree": []
+    },
+    {
+        "title": "atlijas/byt5-is-ocr-post-processing-modern-texts",
+        "url": "https://huggingface.co/atlijas/byt5-is-ocr-post-processing-modern-texts",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "priyank-m/m_OCR",
+        "url": "https://huggingface.co/priyank-m/m_OCR",
+        "image": "priyank-mm_OCR",
+        "parameters": null,
+        "download_last_month": "50",
+        "model_tree": []
+    },
+    {
+        "title": "pawlowskipawel/custom-ocr",
+        "url": "https://huggingface.co/pawlowskipawel/custom-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "AlienKevin/canto_ocr",
+        "url": "https://huggingface.co/AlienKevin/canto_ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "PriyankaJain-1998/OCR",
+        "url": "https://huggingface.co/PriyankaJain-1998/OCR",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Bingsu/ocr_test",
+        "url": "https://huggingface.co/Bingsu/ocr_test",
+        "image": "Bingsuocr_test",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "DunnBC22/trocr-base-printed_captcha_ocr",
+        "url": "https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "29",
+        "model_tree": []
+    },
+    {
+        "title": "DunnBC22/trocr-base-printed_license_plates_ocr",
+        "url": "https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "429",
+        "model_tree": []
+    },
+    {
+        "title": "recsys13/ocr_all",
+        "url": "https://huggingface.co/recsys13/ocr_all",
+        "image": "recsys13ocr_all",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "paigereeves/distilbert-base-uncased-finetuned-auto_ocr",
+        "url": "https://huggingface.co/paigereeves/distilbert-base-uncased-finetuned-auto_ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "paigereeves/distilbert-base-uncased-finetuned-auto-ocr",
+        "url": "https://huggingface.co/paigereeves/distilbert-base-uncased-finetuned-auto-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_cmbert_io_level_1",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_cmbert_io_level_1",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_cmbert_io_level_2",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_cmbert_io_level_2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_cmbert_iob2_level_1",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_cmbert_iob2_level_1",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "3",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_cmbert_iob2_level_2",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_cmbert_iob2_level_2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_ptrn_cmbert_io_level_1",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_ptrn_cmbert_io_level_1",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_ptrn_cmbert_io_level_2",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_ptrn_cmbert_io_level_2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_ptrn_cmbert_iob2_level_1",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_ptrn_cmbert_iob2_level_1",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m1_ind_layers_ocr_ptrn_cmbert_iob2_level_2",
+        "url": "https://huggingface.co/nlpso/m1_ind_layers_ocr_ptrn_cmbert_iob2_level_2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m2_joint_label_ocr_cmbert_io",
+        "url": "https://huggingface.co/nlpso/m2_joint_label_ocr_cmbert_io",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m2_joint_label_ocr_cmbert_iob2",
+        "url": "https://huggingface.co/nlpso/m2_joint_label_ocr_cmbert_iob2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m2_joint_label_ocr_ptrn_cmbert_io",
+        "url": "https://huggingface.co/nlpso/m2_joint_label_ocr_ptrn_cmbert_io",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m2_joint_label_ocr_ptrn_cmbert_iob2",
+        "url": "https://huggingface.co/nlpso/m2_joint_label_ocr_ptrn_cmbert_iob2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "2",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m3_hierarchical_ner_ocr_cmbert_io",
+        "url": "https://huggingface.co/nlpso/m3_hierarchical_ner_ocr_cmbert_io",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m3_hierarchical_ner_ocr_cmbert_iob2",
+        "url": "https://huggingface.co/nlpso/m3_hierarchical_ner_ocr_cmbert_iob2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m3_hierarchical_ner_ocr_ptrn_cmbert_io",
+        "url": "https://huggingface.co/nlpso/m3_hierarchical_ner_ocr_ptrn_cmbert_io",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m3_hierarchical_ner_ocr_ptrn_cmbert_iob2",
+        "url": "https://huggingface.co/nlpso/m3_hierarchical_ner_ocr_ptrn_cmbert_iob2",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m0_flat_ner_ocr_cmbert_io",
+        "url": "https://huggingface.co/nlpso/m0_flat_ner_ocr_cmbert_io",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "nlpso/m0_flat_ner_ocr_ptrn_cmbert_io",
+        "url": "https://huggingface.co/nlpso/m0_flat_ner_ocr_ptrn_cmbert_io",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "1",
+        "model_tree": []
+    },
+    {
+        "title": "OCRLAB/cn-blip-base",
+        "url": "https://huggingface.co/OCRLAB/cn-blip-base",
+        "image": "OCRLABcn-blip-base",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "dedwdw/manga-ocr",
+        "url": "https://huggingface.co/dedwdw/manga-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "Curious19/project-ocr",
+        "url": "https://huggingface.co/Curious19/project-ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "5",
+        "model_tree": []
+    },
+    {
+        "title": "google/pix2struct-ocrvqa-large",
+        "url": "https://huggingface.co/google/pix2struct-ocrvqa-large",
+        "image": "googlepix2struct-ocrvqa-large",
+        "parameters": null,
+        "download_last_month": "46",
+        "model_tree": []
+    },
+    {
+        "title": "google/pix2struct-ocrvqa-base",
+        "url": "https://huggingface.co/google/pix2struct-ocrvqa-base",
+        "image": "googlepix2struct-ocrvqa-base",
+        "parameters": null,
+        "download_last_month": "91",
+        "model_tree": []
+    },
+    {
+        "title": "DunnBC22/trocr-base-printed-synthetic_dataset_ocr",
+        "url": "https://huggingface.co/DunnBC22/trocr-base-printed-synthetic_dataset_ocr",
+        "image": "DunnBC22trocr-base-printed-synthetic_dataset_ocr",
+        "parameters": null,
+        "download_last_month": "11",
+        "model_tree": []
+    },
+    {
+        "title": "ujjawal07/ocr_text_extractor",
+        "url": "https://huggingface.co/ujjawal07/ocr_text_extractor",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "mpak1913/ocr_ikd_captcha_solver",
+        "url": "https://huggingface.co/mpak1913/ocr_ikd_captcha_solver",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "bibinwilson/ocr",
+        "url": "https://huggingface.co/bibinwilson/ocr",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "anaghasavit/ocr-100000",
+        "url": "https://huggingface.co/anaghasavit/ocr-100000",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    },
+    {
+        "title": "anaghasavit/ocr_100000",
+        "url": "https://huggingface.co/anaghasavit/ocr_100000",
+        "image": "hugging_face_logo",
+        "parameters": null,
+        "download_last_month": "Downloads are not tracked for this model.How to track",
+        "model_tree": []
+    }
+]
