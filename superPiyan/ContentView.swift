@@ -470,6 +470,7 @@ struct ContentView: View {
             .ignoresSafeArea()
             
             TabView {
+
                 // TTS model tab
                 NavigationStack {
                     ScrollView {
@@ -484,6 +485,20 @@ struct ContentView: View {
                     }
                     .padding(.horizontal, 16)
                     .padding(.vertical, 20)
+                    .background() {
+                        LinearGradient(
+                            colors: [
+                                Color.blue.opacity(0.35),
+                                Color.purple.opacity(0.35),
+                                Color.black.opacity(0.25)
+                            ],
+                            startPoint: .topLeading,
+                            endPoint: .bottomTrailing
+                        )
+                        .ignoresSafeArea()
+
+                    }
+
                 }
                 .tabItem {
                     Label("TTS model", systemImage: "waveform")
@@ -505,6 +520,20 @@ struct ContentView: View {
                     }
                     .padding(.horizontal, 16)
                     .padding(.vertical, 20)
+                    .background() {
+                        LinearGradient(
+                            colors: [
+                                Color.blue.opacity(0.35),
+                                Color.purple.opacity(0.35),
+                                Color.black.opacity(0.25)
+                            ],
+                            startPoint: .topLeading,
+                            endPoint: .bottomTrailing
+                        )
+                        .ignoresSafeArea()
+
+                    }
+
                 }
                 .tabItem {
                     Label("OCR model", systemImage: "viewfinder.circle.fill")
@@ -525,6 +554,19 @@ struct ContentView: View {
                     }
                     .padding(.horizontal, 16)
                     .padding(.vertical, 20)
+                    .background() {
+                        LinearGradient(
+                            colors: [
+                                Color.blue.opacity(0.35),
+                                Color.purple.opacity(0.35),
+                                Color.black.opacity(0.25)
+                            ],
+                            startPoint: .topLeading,
+                            endPoint: .bottomTrailing
+                        )
+                        .ignoresSafeArea()
+
+                    }
                 }
                 .tabItem {
                     Label("Chat model", systemImage: "bubble.left.and.text.bubble.right.fill")
